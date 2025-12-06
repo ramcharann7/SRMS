@@ -1,4 +1,4 @@
-# SRMC
+# SRMS
 
 A simple **C language** project that manages student records using **file handling** and a **role-based login system**.
 
